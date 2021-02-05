@@ -11,9 +11,9 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:mwieeZWQy6o9gyQcnCxLojhV5KziwobBWo",
-      "created": "2020-02-05T14:24:56.614057+00:00"
+      "created": "2020-02-05T14:40:23.156288+00:00"
     }
   ],
-  "revocationList": "https://www.blockcerts.org/samples/2.0/revocation-list-testnet.json",
+  "revocationList": "None",
   "type": "Profile"
 }
