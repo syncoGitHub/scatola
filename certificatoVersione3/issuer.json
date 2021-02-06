@@ -1,1 +1,1 @@
-
+{"@context": ["https://www.w3.org/2018/credentials/v1", "https://w3id.org/blockcerts/schema/3.0-alpha/context.json", "https://www.w3.org/2018/credentials/examples/v1"], "type": ["VerifiableCredential", "BlockcertsCredential"], "issuer": "https://raw.githubusercontent.com/syncoGitHub/scatola/main/certificatoVersione3/issuer.json", "issuanceDate": "*|DATE|*", "id": "urn:uuid:*|CERTUID|*", "credentialSubject": {"id": "ecdsa-koblitz-pubkey:*|PUBKEY|*", "alumniOf": {"id": "https://web.uniroma2.it/"}}}
